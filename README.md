@@ -14,6 +14,6 @@ Sends keystrokes to a remote server using HTTP POST requests.
 Server receives keystrokes and logs them to a text file (received_keys.txt).
 Fully configurable for testing on your own devices or lab setup.
 
-Disclaimer
+Disclaimer⚠️
 
-⚠️ Important: This keylogger is strictly for educational and testing purposes. Using this on devices without explicit permission is illegal and considered malicious activity. Only run this project on devices you own.
+Important: This keylogger is strictly for educational and testing purposes. Using this on devices without explicit permission is illegal and considered malicious activity. Only run this project on devices you own.
